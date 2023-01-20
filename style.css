@@ -137,9 +137,9 @@ header {
   color: #3b3c36;
   font-size: 12px;
   font-weight: 400;
-  letter-spacing: 10.5px;
+  letter-spacing: 9px;
   text-align: center;
-  margin: 10px 0 10px 8;
+  margin: 10px 0;
 }
 .btn {
   background-color: #007efc;
