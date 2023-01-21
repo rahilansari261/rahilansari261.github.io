@@ -326,6 +326,7 @@ header {
 
 #about p, #about li {
   margin-bottom: 0.5rem;
+  font-weight: 300;
 }
 
 #about a {
