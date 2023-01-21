@@ -24,7 +24,7 @@ header {
 .wrapper {
   width: 300px;
   display: flex;
-      justify-content: space-between;
+  justify-content: space-between;
   align-items: center;
 }
 .hamburger {
@@ -156,6 +156,12 @@ header {
 }
 .btn:hover {
   background-color: #433ec4;
+}
+.resume {
+  display: inline-block;
+  width: 100%;
+  text-decoration: none;
+  color: #fff;
 }
 .sma {
   width: 300px;
